@@ -42,6 +42,8 @@ while True:
         curr_player = 2
     else:
         curr_player = 1
+
+        
         
 
 
